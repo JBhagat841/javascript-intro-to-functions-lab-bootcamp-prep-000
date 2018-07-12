@@ -13,7 +13,6 @@ function logWhisper(string) {
   console.log(pib)
 }
 function sayHiToGrandma(string) {
-  var molloy = string.toLowerCase()
   if('string' === string.toLowerCase())
   console.log(molloy)
 }
