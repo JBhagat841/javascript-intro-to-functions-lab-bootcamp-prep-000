@@ -13,7 +13,5 @@ function logWhisper(string) {
   console.log(pib)
 }
 function sayHiToGrandma(string) {
-  var molloy = 'I can\'t hear you!'
-  if('string' === string.toLowerCase())
-  alert('lower case true')
+  
 }
